@@ -1,4 +1,4 @@
 # Project 2
 
-Web Programming with Python, JavaScript, and SQL
+Web Program built with Python, JavaScript, and SQL
 # Flack
